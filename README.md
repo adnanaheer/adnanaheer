@@ -46,7 +46,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanaheer&layout=compact)](https://github.com/adnanaheer/adnanaheer) -->
 
 
-
+<!-- Wakatime Week Stats -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@adnanaheer)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
