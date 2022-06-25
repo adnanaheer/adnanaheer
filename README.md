@@ -12,20 +12,19 @@
 - ⚡ Fun fact: ...
 
 <!-- simple stat card -->
-<!-- [![adnanaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanaheer)](https://github.com/adnanaheer/github-readme-stats) -->
+<!-- [![adnanaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanaheer)](https://github.com/adnanaheer/adnanaheer) -->
 
 <!-- simple stat card hide prs -->
-<!-- [![adnanaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanaheer&hide=contribs,prs)](https://github.com/adnanaheer/github-readme-stats) -->
+<!-- [![adnanaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanaheer&hide=contribs,prs)](https://github.com/adnanaheer/adnanaheer) -->
 
 <!-- simple stat card private repo -->
-<!-- [![adnanaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanaheer&count_private=true)](https://github.com/adnanaheer/github-readme-stats) -->
+<!-- [![adnanaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanaheer&count_private=true)](https://github.com/adnanaheer/adnanaheer) -->
 
 <!-- simple stat card showing icons -->
-<!-- [![adnanaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanaheer&show_icons=true)](https://github.com/adnanaheer/github-readme-stats) -->
+<!-- [![adnanaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanaheer&show_icons=true)](https://github.com/adnanaheer/adnanaheer) -->
 
 <!-- simple stat card theme -->
-[![adnanaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanaheer&show_icons=true&theme=vue)](https://github.com/adnanaheer/github-readme-stats)
-
+[![adnanaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanaheer&show_icons=true&theme=vue)](https://github.com/adnanaheer/adnanaheer)
 
 <!-- GitHub Extra Pins -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adnanaheer&repo=github-readme-stats)](https://github.com/adnanaheer/adnanaheer)
