@@ -28,7 +28,7 @@
 
 
 <!-- GitHub Extra Pins -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adnanaheer&repo=github-readme-stats)](https://github.com/adnanaheer/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adnanaheer&repo=github-readme-stats)](https://github.com/adnanaheer/adnanaheer)
 
 
 
