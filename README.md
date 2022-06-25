@@ -11,6 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!-- stats -->
 <!-- simple stat card -->
 <!-- [![adnanaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanaheer)](https://github.com/adnanaheer/adnanaheer) -->
 
@@ -26,11 +27,23 @@
 <!-- simple stat card theme -->
 [![adnanaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanaheer&show_icons=true&theme=vue)](https://github.com/adnanaheer/adnanaheer)
 
+
+
 <!-- GitHub Extra Pins -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adnanaheer&repo=github-readme-stats)](https://github.com/adnanaheer/adnanaheer)
 
 
 
+<!-- Top Languages Card -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanaheer)](https://github.com/adnanaheer/adnanaheer) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanaheer&exclude_repo=adnanaheer,adnanaheer.github.io)](https://github.com/adnanaheer/adnanaheer) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanaheer&hide=javascript,html)](https://github.com/adnanaheer/adnanaheer) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanaheer&langs_count=8&layout=compact)](https://github.com/adnanaheer/adnanaheer)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanaheer&layout=compact)](https://github.com/adnanaheer/adnanaheer) -->
 
 
 
