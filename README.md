@@ -41,13 +41,13 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanaheer&hide=javascript,html)](https://github.com/adnanaheer/adnanaheer) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanaheer&langs_count=8&layout=compact)](https://github.com/adnanaheer/adnanaheer)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanaheer&langs_count=8&layout=compact)](https://github.com/adnanaheer/adnanaheer) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanaheer&layout=compact)](https://github.com/adnanaheer/adnanaheer) -->
 
 
 <!-- Wakatime Week Stats -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@adnanaheer)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@adnanaheer)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
@@ -65,11 +65,11 @@
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a> -->
+</a>
 
-<!-- <div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> -->
 
 
 <!-- <div id="badges">
